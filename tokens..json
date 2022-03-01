@@ -1,5 +1,5 @@
 {
-  "name": "Tianguis Tokens Mexicanos",
+  "name": "Tianguis Token List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -25,6 +25,30 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tianguis.finance/images/tokens/0xadcBAEbaac0f775923eBDFb6B904399DA8801275.png"
-    }
+    },
+     {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://app.tianguis.finance/images/tokens/0x1CE0c2827e2eF14D5C4f29a091d735A204794041.png"
+      },
+      {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://app.tianguis.finance/images/tokens/0xAD29AbB318791D579433D831ed122aFeAf29dcfe.png"
+      },
+     {
+        "name": "Glitch Protocol",
+        "symbol": "GLCH",
+        "address": "0xF0902eB0049A4003793BAb33F3566A22D2834442",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://app.tianguis.finance/images/tokens/0xF0902eB0049A4003793BAb33F3566A22D2834442.png"
+      }
   ]
 }
